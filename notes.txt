@@ -1,0 +1,10 @@
+compile:tsc .\intro.ts
+
+ortam için nodemon ekleyeceğiz
+nodemon: kaydedilen paketleri izliyor. calıstırılması gerekiyorsa calıstırıyor.
+nodemon .\intro.ts
+
+veri tipi yoğunlugu yok
+
+burada daha az
+
