@@ -6,5 +6,21 @@ nodemon .\intro.ts
 
 veri tipi yoğunlugu yok
 
-burada daha az
+uygulama catısı-mimarisi
+google tarafından geliştirilmiştir
+jquery angular ıcınde kullanılabılır
+javascript frameworküdür.
+
+angular js : ilk versiyon
+angular 2 : typescript eklendi. kodlama mimarı anlamda farklı
+-
+-
+-
+angular 7
+
+4 den sonra daha stabıl bır sürümleri oldu.
+nesnel altyapı
+arkasında google
+
+application = module = component + service 
 
